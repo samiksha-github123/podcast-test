@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: samiksha-github123/podcast-generator@main
+        uses: samiksha-github123/podcast_generator@main
